@@ -1,0 +1,11 @@
+1.functions 
+
+2.return
+
+3.scoupes
+
+4.debugger 
+
+5.settimeout
+
+6setinterval

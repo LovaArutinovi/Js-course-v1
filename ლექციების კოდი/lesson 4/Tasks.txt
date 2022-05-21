@@ -1,0 +1,7 @@
+1. array, get value from array
+2. deep copy
+3. indexOf , Array.isArray
+4. lastIndexOf
+5. pop,push, splice,shift,toString
+6. for
+7. while, do while

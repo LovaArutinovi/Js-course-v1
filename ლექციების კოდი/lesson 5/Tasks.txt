@@ -1,0 +1,18 @@
+1. Get elements from document(querySelector,getElementById,getElementByClassName)
+
+2. Create and insert elements,append,prepend,before,after
+
+3. Get value , get attribute, set attribute
+
+4. Work with css
+
+5. Event lissener (onclick, oninput, onchange, onmouseover,addEventListener,removeEventListener);
+
+6. addEventListener vs on* events
+
+7. On click from html
+
+8. Event on several dom elements,
+
+
+

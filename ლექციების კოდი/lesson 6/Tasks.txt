@@ -1,0 +1,8 @@
+1. Objects in js.
+
+2. Work with objects
+
+3.for of, for in.
+
+4.forEach, filter, map
+

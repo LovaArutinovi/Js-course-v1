@@ -1,0 +1,7 @@
+1.every/some
+
+2.reduce
+
+3.localStorage/sessionStorage
+
+4.Try/Catch
